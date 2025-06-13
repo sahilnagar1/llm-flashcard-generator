@@ -193,4 +193,3 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 .streamlit/secrets.toml
-openai_api_key = "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"
